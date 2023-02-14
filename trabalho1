@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula DIO HTML</title>
+</head>
+<body>
+    <h1>Resumo de estrutura e tags</h1>
+        <p>Neste módulo do curso o professor aborda de forma ampla as estruturas do HTML e também fala sobre algumas TAGS.</p>
+        <h2>textos</h2>
+        <p>O professor explica as estruturas de formatação para tipos de textos dentro do HTML</p>
+        <H2>Explicação de listas ordenadas e não ordenadas</H2>
+        <p>o professor faz uma explicação sobre como usar as tags OL e UL,com listagem de itens LI </p>
+
+</body>
+</html>
